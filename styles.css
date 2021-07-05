@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    color: rgb(9, 41, 56);
+}
+
+div.cadre{
+    background-color: rgba(138, 195, 228, 0.603);
+    margin: 250px;
+}
+
+body{
+    padding-left: 25px;
+    background-color: rgb(4, 44, 82);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
